@@ -6,8 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-3167johnnie/3167johnnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 👀👀👀👀👀👀👀Always remember the pom dependency version for  mysql connector should same version of msql version
